@@ -1,0 +1,34 @@
+{
+    "products": [
+        {
+            "src": "/book1.jpg",
+            "price": "₹340",
+            "name":"Cengage Maths Book"
+        },
+        {
+            "src": "/book2.jpg",
+            "price": "₹340",
+            "name":"Narendra Awasthi Book"
+        },
+        {
+            "src": "/book3.jpg",
+            "price": "₹340",
+            "name":"H. C. Verma - 1"
+        },
+        {
+            "src": "/book4.jpg",
+            "price": "₹340",
+            "name":"H. C. Verma - 2"
+        },
+        {
+            "src": "/book5.jpg",
+            "price": "₹340",
+            "name":"DELD Textbook"
+        },
+        {
+            "src": "/book6.jpg",
+            "price": "₹340",
+            "name":"BXE Textbook"
+        }
+    ]
+}
