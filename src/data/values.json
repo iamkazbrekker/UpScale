@@ -1,33 +1,50 @@
 {
     "products": [
-        {
+        {   "productId": "123",
             "src": "/book1.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"Cengage Maths Book"
         },
         {
+            "productId": "456",
             "src": "/book2.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"Narendra Awasthi Book"
         },
         {
+            "productId": "789",
             "src": "/book3.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"H. C. Verma - 1"
         },
         {
+            "productId": "012",
             "src": "/book4.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"H. C. Verma - 2"
         },
         {
+            "productId": "345",
             "src": "/book5.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"DELD Textbook"
         },
         {
+            "productId": "678",
             "src": "/book6.jpg",
-            "price": "₹340",
+            "soldBy": "Samarth",
+            "date": "2/5/2026",
+            "price": "340",
             "name":"BXE Textbook"
         }
     ]

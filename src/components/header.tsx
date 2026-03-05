@@ -56,7 +56,7 @@ function Header() {
                     </NavigationMenuList>
                 </NavigationMenu>
                 <Link href="/">
-                    <h1 className="font-bold">
+                    <h1 className="font-bold text-2xl ml-0">
                         UpScale
                     </h1>
                 </Link>
